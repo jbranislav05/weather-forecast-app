@@ -12,7 +12,7 @@ jQuery 3.5.1
 
 momentjs 2.27.0
 
-### Features
+## Features
 
 Search for a city by its name and get information:
 
@@ -28,4 +28,4 @@ Search for a city by its name and get information:
 
 Includes sound effects.
 
-#### Screenshots
+## Screenshots
