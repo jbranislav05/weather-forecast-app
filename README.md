@@ -29,3 +29,4 @@ Search for a city by its name and get information:
 Includes sound effects.
 
 ## Screenshots
+![join-page](https://github.com/jbranislav05/group-chat-app/blob/main/screenshots/screenshot.jpg?raw=true)
